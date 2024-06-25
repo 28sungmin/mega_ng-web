@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mega_ng-web/static/css/main.f2c67845.css",
+    "main.js": "/mega_ng-web/static/js/main.ca45fd95.js",
+    "static/js/453.cf998e08.chunk.js": "/mega_ng-web/static/js/453.cf998e08.chunk.js",
+    "static/media/animal.mp4": "/mega_ng-web/static/media/animal.ceeb1bce0914c404fc69.mp4",
+    "static/media/science.mp4": "/mega_ng-web/static/media/science.f406dda6b950562bb691.mp4",
+    "static/media/travel.mp4": "/mega_ng-web/static/media/travel.4f79668d091f0ccba8c9.mp4",
+    "static/media/history.mp4": "/mega_ng-web/static/media/history.37ec70008f94deffa61a.mp4",
+    "static/media/environment.mp4": "/mega_ng-web/static/media/environment.fb4c6ad5056622a64f48.mp4",
+    "static/media/yellowFrame.png": "/mega_ng-web/static/media/yellowFrame.e013017d8dd58920ddb7.png",
+    "static/media/search_yellow.svg": "/mega_ng-web/static/media/search_yellow.a961a30353aaca73207a.svg",
+    "static/media/user_yellow.svg": "/mega_ng-web/static/media/user_yellow.dbfe6b052cf8807628e6.svg",
+    "static/media/user_white.svg": "/mega_ng-web/static/media/user_white.5308ded40a6734633fd3.svg",
+    "static/media/search_white.svg": "/mega_ng-web/static/media/search_white.a611cf5e2a193e928532.svg",
+    "index.html": "/mega_ng-web/index.html",
+    "main.f2c67845.css.map": "/mega_ng-web/static/css/main.f2c67845.css.map",
+    "main.ca45fd95.js.map": "/mega_ng-web/static/js/main.ca45fd95.js.map",
+    "453.cf998e08.chunk.js.map": "/mega_ng-web/static/js/453.cf998e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2c67845.css",
+    "static/js/main.ca45fd95.js"
+  ]
+}
